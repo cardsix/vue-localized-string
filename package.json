@@ -1,0 +1,23 @@
+{
+  "name": "vue-localized-string",
+  "version": "1.0.1",
+  "description": "A vue plugin to use localized string object like { \"en\": \"hello world\", \"zh\": \"你好 世界\" }",
+  "main": "localizedString.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcfan/vue-localized-string.git"
+  },
+  "keywords": [
+    "vue",
+    "localizedstring"
+  ],
+  "author": "Alan Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcfan/vue-localized-string/issues"
+  },
+  "homepage": "https://github.com/zcfan/vue-localized-string#readme"
+}
